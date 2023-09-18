@@ -1,6 +1,7 @@
 <h2>Installation</h2>
 <ul>
   <li>install node version 18 or higher</li>
+  <li>create .env file based on .env.example</li>
   <li>run yarn install or npm install</li>
 </ul>
 
